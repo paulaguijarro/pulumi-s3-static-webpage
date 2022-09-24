@@ -1,0 +1,3 @@
+name: pulumi-s3-static-webpage
+description: Deplopy a static website on Amazon S3
+runtime: go
